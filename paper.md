@@ -15,7 +15,7 @@ authors:
     corresponding: true
     affiliation: 1
 affiliations:
-  - name: Kalaignar Karunanithi Institute of Technology, Coimbatore, Senior Software Engineer, Phoenix, Arizona, United States
+  - name: Independent Researcher, Phoenix, Arizona, United States
     index: 1
 date: 22 January 2026
 bibliography: paper.bib
