@@ -1,5 +1,5 @@
 === Hey Trisha - AI-Powered WordPress & WooCommerce Chatbot ===
-Contributors: mahakris123
+Contributors: manikandanchandran (lead), mahakris123, ASHBA2801, ramasamy-24-t, rohitkumarsundararajan.
 Tags: chatbot, ai, openai, woocommerce, nlp, artificial intelligence
 Requires at least: 5.0
 Tested up to: 6.4
